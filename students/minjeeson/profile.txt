@@ -1,0 +1,38 @@
+username:
+	minjeeson
+password:
+	1111
+email:
+	minjee9108@hotmail.com
+name:
+	Min Jee Son
+gender:
+	female
+birthdate:
+	08/11/1991
+weight:
+	53kg
+height:
+	1.58m
+hair_colour:
+	black
+degree:
+	Computer Science
+about:
+	<B> blah blah </b>
+	fasdfasdafa
+	wawa
+courses:
+	2014 S2 COMP2041
+	2014 S1 COMP1927
+favourite_books:
+	To Kill a Mockingbird
+	Neuromancer
+favourite_movies:
+	Her
+	Being John Malkovich
+favourite_TV_shows:
+	Game of Thrones
+	Modern Family
+favourite_hobbies:
+	Pissing in the river
